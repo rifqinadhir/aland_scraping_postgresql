@@ -1,4 +1,4 @@
-# **A-Land Product Scraping, Data Cleaning, and Database Insertion using Python & PostgreSQL**
+# **A-Land Product Scraping, Cleaning, and Database Loading using Python & PostgreSQL**
 
 ---
 
